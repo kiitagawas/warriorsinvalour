@@ -2,6 +2,6 @@
 
 
            
-   ![](https://komarev.com/ghpvc/?username=aoyagis&color=#34525e) 
+   ![](https://komarev.com/ghpvc/?username=aoyagis&color=#115d7a) 
 
 
