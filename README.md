@@ -4,6 +4,6 @@
 
 
            
-   ![](https://komarev.com/ghpvc/?username=kiitagawas&color=white) 
+   ![](https://komarev.com/ghpvc/?username=kiitagawas&color=blue) 
 
 
