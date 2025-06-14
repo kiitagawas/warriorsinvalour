@@ -4,6 +4,6 @@
 
 
            
-  ![Visitor Count](https://profile-counter.glitch.me/{falselydisguised}/count.svg)
+  ![](https://komarev.com/ghpvc/?username=falselydisguised)
 
 
