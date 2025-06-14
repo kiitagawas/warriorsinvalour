@@ -4,6 +4,6 @@
 
 
            
-   ![](https://komarev.com/ghpvc/?username=kiitagawas&color=brown) 
+  ![Visitor Count](https://profile-counter.glitch.me/{falselydisguised}/count.svg
 
 
